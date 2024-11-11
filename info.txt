@@ -1,0 +1,7 @@
+Step-1 pip install pillow // used in formatting the qr
+Step-2 pip install qrcode[pil] 
+Step-3 import qrcode
+Step-4 make() is used to make qrcode 
+Step-5 save() will give the qrcode in png format
+
+alias name using "as" keyword
